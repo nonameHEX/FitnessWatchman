@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name" translatable="false">Fitness Watchman</string>
+    <string name="main_menu_title">Hlavní Menu</string>
+    <string name="monday">Pondělí</string>
+    <string name="tuesday">Úterý</string>
+    <string name="wednesday">Středa</string>
+    <string name="thursday">Čtvrtek</string>
+    <string name="friday">Pátek</string>
+    <string name="saturday">Sobota</string>
+    <string name="sunday">Neděle</string>
+    <string name="primary_focus_title">Primární Zaměření</string>
+    <string name="options_title">Nastavení</string>
+    <string name="photo_gallery_title">Galerie Fotek</string>
+    <string name="btn_delete_all_exercise_in_day">Smazat Všechny Cviky</string>
+    <string name="focus_part_rest_day">Odpočinek</string>
+    <string name="focus_part_shoulders">Ramena</string>
+    <string name="focus_part_arm">Ruce</string>
+    <string name="focus_part_back">Záda</string>
+    <string name="focus_part_abdomen">Břicho</string>
+    <string name="focus_part_legs">Nohy</string>
+    <string name="add_exercise_title">Přidat Cvik</string>
+    <string name="edit_exercise_title">Upravit Cvik</string>
+    <string name="rotate_exercises">Rotovat cviky v týdnu</string>
+    <string name="rotate_exercises_info">Rotuje se v 00:00 z neděle na pondělí</string>
+    <string name="welcome_name">Uvítací jméno</string>
+    <string name="exercise_name">Název cviku</string>
+    <string name="series_count">Počet serií</string>
+    <string name="repeat_count">Počet opakování</string>
+    <string name="weight_count">Váha (kg)</string>
+    <string name="reminder_info">Připomínky pro příště</string>
+    <string name="btn_delete">Smazat</string>
+    <string name="btn_save">Uložit</string>
+    <string name="btn_delete_all_photos_from_gallery">Smazat všechny fotky z galerie</string>
+    <string name="btn_delete_photos_from_gallery">Mazat fotky z galerie</string>
+    <string name="btn_stop_deleting_photos_from_gallery">Přestat mazat fotky</string>
+    <string name="btn_reset_all_schedule">Resetovat celý rozvrh cvičení</string>
+    <string name="welcome">Vítejte</string>
+    <string name="version">Verze</string>
+</resources>

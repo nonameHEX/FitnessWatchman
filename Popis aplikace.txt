@@ -1,0 +1,4 @@
+Aplikace je pomocník postupu při cvičení. Udělej si vlastní rozvrh, jaké cviky ve který den chceš cvičit a to vše hezky přehledně. 
+Aplikace umožňuje vkládat své fotky, kde budeš mít vizuální postup hezky u sebe, takže si můžeš prohlédnout svoji cestu a motivovat se dál. 
+Pokud nechceš mít týdenní stereotyp, můžeš si cviky nechat týdně rotovat. 
+V případě, že budeš chtít překopat úplně celý rozvrh, tak stiskem jednoho tlačítka se můžeš vydat na novou cestu za lepším tělem.

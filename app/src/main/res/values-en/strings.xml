@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_menu_title">Main Menu</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="primary_focus_title">Primary Focus</string>
+    <string name="options_title">Options</string>
+    <string name="photo_gallery_title">Photo Gallery</string>
+    <string name="btn_delete_all_exercise_in_day">Delete all exercises</string>
+    <string name="focus_part_rest_day">Rest Day</string>
+    <string name="focus_part_shoulders">Shoulders</string>
+    <string name="focus_part_arm">Arm</string>
+    <string name="focus_part_back">Back</string>
+    <string name="focus_part_abdomen">Abdomen</string>
+    <string name="focus_part_legs">Legs</string>
+    <string name="add_exercise_title">Add Exercise</string>
+    <string name="edit_exercise_title">Edit Exercise</string>
+    <string name="rotate_exercises">Rotate exercises in week</string>
+    <string name="rotate_exercises_info">Rotates at 00:00 from Sunday to Monday</string>
+    <string name="welcome_name">Welcome name</string>
+    <string name="exercise_name">Exercise name</string>
+    <string name="series_count">Number of series</string>
+    <string name="repeat_count">Number of repeats</string>
+    <string name="weight_count">Weight (kg)</string>
+    <string name="reminder_info">Reminder for next session</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_delete_all_photos_from_gallery">Delete all photos from gallery</string>
+    <string name="btn_delete_photos_from_gallery">Delete photos from gallery</string>
+    <string name="btn_stop_deleting_photos_from_gallery">Stop deleting photos</string>
+    <string name="btn_reset_all_schedule">Reset all schedule</string>
+    <string name="welcome">Welcome</string>
+    <string name="version">Version</string>
+</resources>
